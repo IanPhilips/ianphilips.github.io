@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/IanPhilips/IanPhilips.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vpedals will let you add delay, reverb, and distortion to any sound in real time. You can also draw an area on your camera feed that will toggle the effect on or off when your foot enters and leaves the area. VPedals acts like a normal pedal, but can fit in your pocket and save you the hassle of broken pedals, power cords, and patch cords. You can also record your effected sounds and save them to your device or share them with your friends.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FAQ:
 
-### Markdown
+1. Orienting your phone: An easy way to setup your device is to put it on the edge of a chair or table with the screen facing up. The device's camera will be watching the floor and detecting your foot movements.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Drawing pedals: Tap 3 or more points anywhere on your camera feed to create an area that detects foot movements.
 
-```markdown
-Syntax highlighted code block
+3. Toggling pedals: Move your foot quickly in and out of a pedal area to toggle an effect on or off. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IanPhilips/IanPhilips.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4. Looking for a guitar to phone adaptor? Search "irig" on amazon or google for a $10 adaptor
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with VPedals? Conact us at vpedals@gmail.com and we’ll help you sort it out.

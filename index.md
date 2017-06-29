@@ -13,4 +13,4 @@ Vpedals will let you add delay, reverb, and distortion to any sound in real time
 
 ### Support or Contact
 
-Having trouble with VPedals? Conact us at [vpedals@gmail.com](vpedals@gmail.com) and we’ll help you sort it out.
+Having trouble with VPedals? Conact us at <vpedals@gmail.com> and we’ll help you sort it out.

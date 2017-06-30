@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.TitleBanner {
+  background-size: cover;
+  background-position: center;
+}

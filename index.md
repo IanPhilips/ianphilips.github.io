@@ -14,7 +14,7 @@ Vpedals is an iOS app (iPad or iPhone) that lets you add delay, reverb, and dist
 
 4. Looking for a guitar to phone adaptor? Search "irig" on amazon or google for a $10 adaptor
 
-5. Who made the VPedals video: <https://vimeo.com/julikeller>
+5. Who made the VPedals video? <https://vimeo.com/julikeller>
 
 ### Support or Contact
 

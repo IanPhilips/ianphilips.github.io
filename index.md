@@ -14,7 +14,9 @@ Vpedals is an iOS app (iPad or iPhone) that lets you add delay, reverb, and dist
 
 4. Looking for a guitar to phone adaptor? Search "irig" on amazon or google for a $10 adaptor
 
-5. Who made the VPedals video? <https://vimeo.com/julikeller>
+5. Pedal toggling works best with: a surface that has lots of visible patterns or variation. For example, pointing the camera at a pillow case with pictures of fuzzy animals on it will enable more accurate pedal toggling than if the camera is pointed at a blank floor.
+
+6. Who made the VPedals video? <https://vimeo.com/julikeller>
 
 ### Support or Contact
 

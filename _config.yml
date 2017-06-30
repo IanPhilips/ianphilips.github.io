@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: VPedals
 description:  ' "Get rid of those nasty, old pedals that attract dirt" - Cody Dosier'
-background: Features01Logo01.png
+image:
+  background: Features01Logo01.png

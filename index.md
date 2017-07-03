@@ -3,7 +3,9 @@
 
 Try out VPedals for free: <meta name="apple-itunes-app" content="app-id=1254112137, affiliate-data=myAffiliateData, app-argument=myURL">
 
-Ready to buy: <a href="https://itunes.apple.com/us/app/vpedals/id1254061547?mt=8&at=10l6Xd&ct=j4onrizqgq00xkod01g9a" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/es-mx/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a> 
+Ready to buy: 
+
+<a href="https://itunes.apple.com/us/app/vpedals/id1254061547?mt=8&at=10l6Xd&ct=j4onrizqgq00xkod01g9a" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/es-mx/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 
 ### What is VPedals?
 Vpedals is an iOS app (iPad or iPhone) that lets you add delay, reverb, and distortion to any sound in real time. You can draw an area on your camera feed that will toggle the selected effect on or off when your foot enters and leaves the area. VPedals acts like a normal trio of pedals, (besides the virtual part) but can fit in your pocket and save you the hassle of broken pedals, power cords, and patch cords. You can also record your effected sounds and save them to your device or share them with your friends.

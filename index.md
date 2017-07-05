@@ -13,7 +13,7 @@ Vpedals is an iOS app (iPad or iPhone) that lets you add delay, reverb, and dist
 
 0. What is VPedals Lite? This has all of the features of VPedals except you're limited to one recording, no presets, and drawing one pedal (but you can use all of the effects).
 
-1. Orienting your phone: An easy way to setup your device is to put it on the edge of a chair or table with the screen facing up. The device's camera will be watching the floor and detecting your foot movements.
+1. Orienting your phone: An easy way to setup your device is to put it on the edge of a chair or table with the screen facing up and the back camera pointed at the ground. The device's camera will be watching the floor and detecting your foot movements.
 
 2. Drawing pedals: Tap 3 or more points anywhere on your camera feed to create an area that detects foot movements.
 
